@@ -8,5 +8,5 @@ Thanks for checking out this coding challenge.
 
 ### About App
 
-This advice generator app using the Advice Slip API conatins over 10 million pieces of advice.
+This advice generator app using the Advice Slip API contains  over 10 million pieces of advice.
 
