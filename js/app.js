@@ -2,7 +2,7 @@ const ad = document.getElementById('advice');
 const adId = document.getElementById('adId');
 const btn = document.getElementById('btn');
 
-console.log(ad,btn)
+
 
 btn.addEventListener('click', ()=> {
     getAdvice();
